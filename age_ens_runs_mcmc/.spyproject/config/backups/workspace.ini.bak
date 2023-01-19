@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['../../../../.spyder-py3/temp.py', '../../ParFlow_Modeling/MET/snotel_stats.py', '../../ParFlow_Modeling/PLM_transect.v5/RunB.0.mint/plot_results_v5.py', '../../ParFlow_Modeling/PLM_transect.v5/plot_results_comp.113022.py', '../../Age_Modeling.manuscript.072422/age_modeling_mcmc.rtd_explore.py', '../../ParFlow_Modeling/PLM_transect.v5/plot_perm_field/k_conceptual.py', '../../ParFlow_Modeling/PLM_transect.v5/plot_perm.comp.py', '../../ParFlow_Modeling/PLM_transect.v5/RunB.0.mint/vel_decomp_2_rech.py', '../../ParFlow_Modeling/PLM_transect.v5/RunB.0.mint/vel_decomp.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+

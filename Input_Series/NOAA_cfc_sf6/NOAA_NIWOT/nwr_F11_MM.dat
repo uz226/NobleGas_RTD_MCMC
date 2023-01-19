@@ -1,0 +1,308 @@
+#  file: nwr_F11_MM.dat
+#  date: Wed, Jun 26, 2019 11:04:25 AM
+#  
+#  Chloroflurocarbon-11 (F11) data from hourly in situ samples analyzed on a gas chromatograph located 
+#  at Niwot Ridge (NWR), Colorado (C-1 site:  40.04 N, 105.54 W, elevation:  3018 m)
+#  
+#  Atmospheric Measurements from the NOAA/ESRL Chromatograph for Atmospheric Trace Species 
+#  (CATS) Program.  This GC replaces the RITS GCs operated during the period of 1986 through 2000.
+#  This work was funded in part by the Atmospheric Chemistry Project of NOAA's Climate and
+#  Global Change Program.
+#  
+#  (PIs) Geoffrey S. Dutton, Dr. James W. Elkins, Dr. Bradley D. Hall
+#  
+#  National Oceanic and Atmospheric Administration (NOAA)
+#  Earth System Research Laboratory (ESRL)
+#  325 Broadway, R/GMD1
+#  Boulder, CO 80305-3328
+#  
+#  Email:  Geoff.Dutton@noaa.gov; James.W.Elkins@noaa.gov; Bradley.Hall@noaa.gov
+#  Phone:      (303) 497-6086      (303) 497-6224        (303) 497-7011
+#  Fax:   (303) 497-6290
+#  
+#  See (http://www.esrl.noaa.gov/gmd/obop/) for station statistics and personnel.
+#  
+#  Data use policy:
+#  If you use this data in a publication or report, we would appreciate that you contact the principal
+#  investigators (PIs) first and discuss your interests.  We are trying to encourage scientific discussion.
+#  The PIs can discuss the quality of the data and any potential problems with its analysis.  Recent data (less
+#  than 1.5 years) are considered preliminary.  Please contact the PIs for more information.
+#  
+#  The data should be cited in presentations or publications as the flowing:  Chloroflurocarbon-11 data from 
+#  the NOAA/ESRL halocarbons in situ program. 
+#  
+#  DOI:  http://doi.org/10.7289/V5X0659V
+#  
+#  Calibration scale used:  NOAA 2016
+#  
+#  More information about the calibration scale can be found at: 
+#  http://www.esrl.noaa.gov/gmd/ccl/
+#  
+#  The CATS GCs sample air once an hour.  Monthly median data are provided in parts-per-trillion, ppt. 
+#  Abbreviations used:
+#  yr=year, mon=month, m=monthly data; gc=type of sample--in situ GC data, sd=standard deviation of samples,
+#  n=number of samples, brw=Pt. Barrow, Alaska, sum=Summit, Greenland, nwr= Niwot Ridge, Colorado
+#  mlo=Mauna Loa, Hawaii, smo = American Samoa, spo=South Pole, Antarctica
+#  NAN=not a number or no data, and space(s) is the delimiter.
+#  
+#  year, month, monthly median of F11 in ppt, std. dev., number of samples
+#
+F11catsNWRyr F11catsNWRmon F11catsNWRm F11catsNWRsd F11catsNWRn
+1998       1     nan        nan       0
+1998       2     nan        nan       0
+1998       3     nan        nan       0
+1998       4     nan        nan       0
+1998       5     nan        nan       0
+1998       6     nan        nan       0
+1998       7     nan        nan       0
+1998       8     nan        nan       0
+1998       9     nan        nan       0
+1998      10     nan        nan       0
+1998      11     nan        nan       0
+1998      12     nan        nan       0
+1999       1     nan        nan       0
+1999       2     nan        nan       0
+1999       3     nan        nan       0
+1999       4     nan        nan       0
+1999       5     nan        nan       0
+1999       6     nan        nan       0
+1999       7     nan        nan       0
+1999       8     nan        nan       0
+1999       9     nan        nan       0
+1999      10     nan        nan       0
+1999      11     nan        nan       0
+1999      12     nan        nan       0
+2000       1     nan        nan       0
+2000       2     nan        nan       0
+2000       3     nan        nan       0
+2000       4     nan        nan       0
+2000       5     nan        nan       0
+2000       6     nan        nan       0
+2000       7     nan        nan       0
+2000       8     nan        nan       0
+2000       9     nan        nan       0
+2000      10     nan        nan       0
+2000      11     nan        nan       0
+2000      12     nan        nan       0
+2001       1     nan        nan       0
+2001       2     nan        nan       0
+2001       3     nan        nan       0
+2001       4     nan        nan       0
+2001       5    258.85      0.62    705
+2001       6    258.61      0.51    611
+2001       7    258.43      0.57    705
+2001       8    258.27      0.55    703
+2001       9    258.26      0.58    660
+2001      10    258.20      0.80    704
+2001      11    258.44      0.69    682
+2001      12    258.12      0.78    586
+2002       1    258.07      1.02    500
+2002       2    257.56      1.74    563
+2002       3    257.47      1.04    654
+2002       4    257.04      1.29    607
+2002       5    256.70      0.98    685
+2002       6    256.54      0.28    689
+2002       7    256.61      0.20    679
+2002       8    256.63      0.21    717
+2002       9    256.63      0.22    689
+2002      10    256.36      0.37    696
+2002      11    255.60      0.54    691
+2002      12    255.53      0.59    701
+2003       1    255.23      0.77    641
+2003       2    255.13      0.54    495
+2003       3    254.73      0.67    449
+2003       4    254.47      0.39    671
+2003       5    254.06      0.54    608
+2003       6    254.05      0.31    485
+2003       7    253.96      0.35    584
+2003       8    254.44      0.43    718
+2003       9    254.29      0.50    649
+2003      10    254.36      0.57    695
+2003      11    254.16      0.62    682
+2003      12    253.98      0.70    733
+2004       1    253.82      0.60    696
+2004       2    253.74      0.57    651
+2004       3    253.23      0.57    655
+2004       4    253.16      0.47    686
+2004       5    252.75      0.51    666
+2004       6    252.46      0.59    220
+2004       7    252.17      0.65    292
+2004       8    252.44      0.51    707
+2004       9    252.08      1.01    674
+2004      10    252.19      1.09    584
+2004      11    252.23      0.68    692
+2004      12    251.95      0.83    708
+2005       1    251.66      0.73    654
+2005       2    251.67      1.31    636
+2005       3    251.49      1.07    670
+2005       4    251.51      0.84    690
+2005       5    251.07      0.72    651
+2005       6    250.63      0.50    153
+2005       7    250.55      0.44    590
+2005       8    250.35      0.47    712
+2005       9    250.30      0.77    538
+2005      10    249.65      2.19    455
+2005      11    249.40      2.12    540
+2005      12    249.08      1.52    572
+2006       1    248.65      0.85    652
+2006       2    249.03      1.21    589
+2006       3    249.06      1.80    618
+2006       4    248.54      1.36    600
+2006       5    249.03      0.93    539
+2006       6    248.10      0.69    617
+2006       7    249.19      1.10    112
+2006       8     nan        nan       0
+2006       9     nan        nan       0
+2006      10     nan        nan       0
+2006      11     nan        nan       0
+2006      12     nan        nan       0
+2007       1     nan        nan       0
+2007       2     nan        nan       0
+2007       3     nan        nan       0
+2007       4     nan        nan       0
+2007       5     nan        nan       0
+2007       6     nan        nan       0
+2007       7     nan        nan       0
+2007       8     nan        nan       0
+2007       9     nan        nan       0
+2007      10     nan        nan       0
+2007      11    245.48      0.24    448
+2007      12    245.03      0.25    460
+2008       1    244.97      0.23    726
+2008       2    244.81      0.22    693
+2008       3    244.60      0.19    722
+2008       4    244.45      0.19    712
+2008       5    244.25      0.15    710
+2008       6    244.09      0.16    706
+2008       7    243.95      0.15    723
+2008       8    243.83      0.15    677
+2008       9    243.78      0.15    703
+2008      10    243.65      0.19    730
+2008      11    243.41      0.21    616
+2008      12    243.21      0.25    746
+2009       1    243.12      0.26    734
+2009       2    242.95      0.23    639
+2009       3    242.77      0.19    726
+2009       4    242.54      0.17    673
+2009       5    242.18      0.17    732
+2009       6    241.96      0.18    704
+2009       7    241.66      0.20    711
+2009       8    241.66      0.17    730
+2009       9    241.69      0.18    680
+2009      10    241.84      0.18    626
+2009      11    241.90      0.19    713
+2009      12    241.82      0.23    546
+2010       1    241.60      0.20    564
+2010       2    241.50      0.19    394
+2010       3    241.23      0.18    669
+2010       4    240.97      0.17    710
+2010       5    240.81      0.17    720
+2010       6    240.49      0.15    711
+2010       7    240.20      0.17    698
+2010       8    240.08      0.14    734
+2010       9    240.03      0.15    703
+2010      10    240.07      0.16    716
+2010      11    239.86      0.18    710
+2010      12    239.71      0.15    679
+2011       1    239.48      0.23    688
+2011       2    239.32      0.24    634
+2011       3    239.12      0.19    559
+2011       4    239.00      0.14    708
+2011       5    238.75      0.12    722
+2011       6    238.53      0.11    434
+2011       7    238.27      0.14    326
+2011       8    238.27      0.11    647
+2011       9    238.21      0.14    680
+2011      10    238.06      0.16    706
+2011      11    237.98      0.20    582
+2011      12    237.96      0.23    650
+2012       1     nan        nan       0
+2012       2     nan        nan       0
+2012       3    237.18      0.19    306
+2012       4    237.08      0.16    705
+2012       5    236.94      0.13    744
+2012       6    236.44      0.13    635
+2012       7    236.30      0.15    524
+2012       8    236.13      0.13    556
+2012       9    236.15      0.12    700
+2012      10    236.06      0.32    506
+2012      11    235.96      0.29    526
+2012      12    235.76      0.27    373
+2013       1    235.38      0.28    644
+2013       2    235.13      0.21    585
+2013       3     nan        nan       0
+2013       4    234.80      0.30    225
+2013       5    234.57      0.19    436
+2013       6    234.65      0.21    717
+2013       7    234.52      0.23    615
+2013       8    234.53      0.18    733
+2013       9    234.46      0.47    645
+2013      10    234.56      0.83    709
+2013      11    234.43      0.48    664
+2013      12    234.55      0.61    266
+2014       1    234.13      0.59    358
+2014       2    234.01      0.52    400
+2014       3    233.86      0.46    338
+2014       4    233.95      0.44    557
+2014       5    233.80      0.36    742
+2014       6    233.71      0.21    657
+2014       7    233.66      0.20    734
+2014       8    233.64      0.19    739
+2014       9    233.65      0.18    354
+2014      10    233.57      0.23    734
+2014      11    233.44      0.29    711
+2014      12    233.29      0.33    732
+2015       1    232.98      0.24    694
+2015       2    232.84      0.23    665
+2015       3    232.63      0.20    738
+2015       4    232.59      0.19    709
+2015       5    232.46      0.19    518
+2015       6    232.44      0.17    515
+2015       7    232.26      0.37     23
+2015       8    232.14      0.35    332
+2015       9    232.35      0.31    617
+2015      10    232.39      0.19    699
+2015      11    232.41      0.24    391
+2015      12     nan        nan       0
+2016       1     nan        nan       0
+2016       2     nan        nan       0
+2016       3    231.11      0.36    628
+2016       4    231.07      0.20    345
+2016       5     nan        nan       0
+2016       6    231.17      0.10    194
+2016       7     nan        nan       0
+2016       8    231.35      0.21    461
+2016       9    231.40      0.21    622
+2016      10    231.51      0.36    686
+2016      11    231.72      0.47    598
+2016      12    231.71      0.13    707
+2017       1    231.61      0.12    671
+2017       2    231.45      0.17    555
+2017       3    231.44      0.22    357
+2017       4     nan        nan       0
+2017       5     nan        nan       0
+2017       6     nan        nan       0
+2017       7     nan        nan       0
+2017       8     nan        nan       0
+2017       9     nan        nan       0
+2017      10    230.74      0.19    140
+2017      11    230.45      0.13    708
+2017      12    230.38      0.13    687
+2018       1    230.22      0.13    746
+2018       2    230.08      0.12    651
+2018       3    229.83      0.16    730
+2018       4    229.68      0.17    713
+2018       5    229.47      0.16    744
+2018       6    229.28      0.15    666
+2018       7    229.28      0.27    340
+2018       8    229.58      0.29    635
+2018       9    229.67      0.25    473
+2018      10    229.63      0.50     62
+2018      11    229.89      0.31    159
+2018      12    229.93      0.35     68
+2019       1     nan        nan       0
+2019       2     nan        nan       0
+2019       3     nan        nan       0
+2019       4     nan        nan       0
+2019       5     nan        nan       0
+2019       6     nan        nan       0
